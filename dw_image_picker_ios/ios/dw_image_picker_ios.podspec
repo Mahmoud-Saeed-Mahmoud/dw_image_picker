@@ -16,7 +16,7 @@ Choose images/videos from the library, crop images, and capture new photos/video
   s.source_files = 'Classes/**/*'
   s.dependency 'Flutter'
   s.dependency 'DW_TLPhotoPicker', '>= 1.0.5'
-  s.dependency 'CropViewController'
+  s.dependency 'CropViewController', '= 2.7.4'
   s.platform = :ios, '11.0'
 
   # Flutter.framework does not contain a i386 slice.
